@@ -61,6 +61,10 @@ nav > button{
     background-color: transparent;
 }
 
+nav> button:hover{
+    cursor: pointer;
+}
+
 .content{
     display: flex;
     justify-content: space-between;
